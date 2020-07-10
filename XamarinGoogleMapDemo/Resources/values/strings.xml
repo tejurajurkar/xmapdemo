@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XamarinGoogleMapDemo</string>
+    <string name="action_settings">Settings</string>
+  <string name="GoogleKey">AIzaSyDj_-tDbA_DQSaFOiOrGwHC13zhAR6DPeU</string>
+</resources>
